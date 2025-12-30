@@ -1,6 +1,6 @@
-# 👥 Active Directory: Creating a New Security Group (AWS Lab)
+# 👥 Active Directory: Creating a New Group (AWS Lab)
 
-
+## 🎬 Watch Me Build This Lab!
 https://www.loom.com/share/e866e268e69c4641a7b07e6c844dab75
 
 ## 🎯 Objective
@@ -12,7 +12,7 @@ Demonstrate the ability to create and manage security groups in **Active Directo
 - Active Directory Users and Computers (ADUC)
 - Windows Server
 
-## Steps 
+## Steps Performed
 1. Logged into the EC2 Windows Server instance.
 2. Opened **Active Directory Users and Computers** via the Windows search bar.
 <img width="954" height="579" alt="Reset Ad step 2" src="https://github.com/user-attachments/assets/3b26e8c0-c697-4584-8c73-cbf1e6058379" />
